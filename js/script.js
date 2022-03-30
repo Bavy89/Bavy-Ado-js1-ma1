@@ -1,10 +1,8 @@
 //question 1
 const cat = {
-    "complain": "meow",
-    
-    console.log(cat["complain"]);
-    
+"complain": "meow",        
 };
+console.log(cat["complain"]);
 
 //question 2
 //question 3
