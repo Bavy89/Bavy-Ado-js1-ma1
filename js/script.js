@@ -1,11 +1,11 @@
 //question 1
 const cat = {
-"complain": "meow!",        
-};
-
-catComplain: function() {
-    console.this.complain;
-  }
+"complain": "meow!", 
+catComplain: function() 
+{
+console.log(this.complain);
+}
+}
 
 //question 2
 //question 3
