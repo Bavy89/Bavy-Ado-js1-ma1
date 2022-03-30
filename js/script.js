@@ -1,8 +1,11 @@
 //question 1
 const cat = {
-"complain": "meow",        
+"complain": "meow!",        
 };
-console.log(cat["complain"]);
+
+catComplain: function() {
+    console.this.complain;
+  }
 
 //question 2
 //question 3
