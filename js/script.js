@@ -1,5 +1,10 @@
 //question 1
-const animal = "cat";
+const cat = {
+    "complain": "meow",
+    
+    console.log(cat["complain"]);
+    
+};
 
 //question 2
 //question 3
