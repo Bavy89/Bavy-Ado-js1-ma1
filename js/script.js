@@ -8,7 +8,13 @@ console.log(this.complain);
 }
 
 //question 2
+
+const Heading = document.querySelector("h3");
+Heading.innerHTML = "Updated heading";
+
 //question 3
+
+
 //question 4
 
 const cats = [
@@ -24,3 +30,8 @@ const cats = [
         age: 21
     }
 ];
+
+//question 5
+//question 6
+//question 7
+//question 8
