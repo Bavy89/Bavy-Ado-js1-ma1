@@ -14,7 +14,7 @@ Heading.innerHTML = "Updated heading";
 
 //question 3
 
-const paragraph = document.querySelector("p");
+const paragraph = document.querySelectorALL("p");
 
 paragraph.style.colour = "red"
 
